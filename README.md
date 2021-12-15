@@ -8,6 +8,7 @@
 :o file       # open file
 :saveas file  # save file as
 :close        # close current pane
+:set number   # sets line number to the file
 ```
 
 ## Cursor movement
